@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vyom Shah
-- 👀 I’m interested in Website Developement, UI/UX Designing and Freelancing
+- 👀 I’m interested in Website Developement, UI/UX Designing, Freelancing along with Product Management 
 - 🌱 I’m currently learning react to improve my web dev skills
 - 📫 To contact me use the following mediums: 
      email - vyom411@gmail.com
