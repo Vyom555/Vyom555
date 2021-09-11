@@ -2,8 +2,8 @@
 - 👀 I’m interested in Website Developement, UI/UX Designing, Freelancing along with Product Management 
 - 🌱 I’m currently learning react to improve my web dev skills
 - 📫 To contact me use the following mediums: 
-     email - vyom411@gmail.com
-     linkdin - https://www.linkedin.com/in/vyom-shah-5831251b5//
+     Email - vyom411@gmail.com
+     Linkdin - https://www.linkedin.com/in/vyom-shah-5831251b5//
 <br/> Thanks for the visit Bye!                    
 
 <!---
