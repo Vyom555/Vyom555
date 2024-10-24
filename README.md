@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Product Management UI/UX
 - 📫 To contact me use the following mediums: 
      Email - vyom411@gmail.com
-     Linkedln - https://www.linkedin.com/in/vyom-shah-5831251b5//
+     Linkedln - https://www.linkedin.com/in/vyoms/
      <br/>
 <br/>Thanks for the visit Bye!                    
 
